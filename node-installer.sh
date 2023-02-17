@@ -1,4 +1,4 @@
-#Clones a repository and does npm update
+#Clones a repository and installs dependencies
 
 #!/bin/sh
 git clone $1 $2
